@@ -64,12 +64,12 @@ function App() {
         ))}
       </div>
 
-      <div style={{ marginTop: 12 }}>
-        🥳 App successfully hosted. Try creating a new todo.
-        <br />
-        <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
-          Review next step of this tutorial.
-        </a>
+      <div style={{ marginTop: 12 }}> 
+        This is just an example. The real form can have drop-down menus, free text, etc. 
+        <br /> 
+        <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates"> 
+          At the moment, test creating and deleting items, if you wish. 
+      </a> 
       </div>
 
       <button onClick={signOut} style={{ marginTop: 12 }}>
